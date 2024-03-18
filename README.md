@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning how to update my profile README.md file :)
+
+
 <!--
 **cgaudette66/cgaudette66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
