@@ -1,5 +1,4 @@
-I'm currently working on getting my Bachelors degree in Graphic Information Technology (Full-Stack Web Development) at Arizona State University.
-
+Hello, my name is Christine Gaudette and I am from Brookline, MA. I am currently working on getting my Bachelors Degree in Graphic Information Technology (Full-Stack Web Development) at Arizona State University. I am a stay-at-home mom raising my two beautiful children with my husband of 28 years. In my spare time when my children are in school, I am a potter and ride share driver. When my son was born 17 years ago, I left my job at Monster.com. I started there as an intern in 1998 and held roles from Sr. Web Developer to Manager of Web Services in the years that followed. I have been out of this industry for the past 17 years and I believe a BS in Graphic Information Technology (Full-Stack Web Development) will complement my past experience as I return to the field.
 
 
 
