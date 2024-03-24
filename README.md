@@ -1,4 +1,8 @@
-### Hi there 👋
+
+
+### Arizona State University
+Bachelors, Graph Info Tech(Full-StackWeb)
+Graduates June 2026
 
 - 🌱 I’m currently learning how to update my profile README.md file :)
 
