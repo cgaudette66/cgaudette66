@@ -1,10 +1,6 @@
+I'm currently working on getting my Bachelors degree in Graphic Information Technology (Full-Stack Web Development) at Arizona State University.
 
 
-### Arizona State University
-Bachelors, Graph Info Tech(Full-StackWeb)
-Graduates June 2026
-
-- 🌱 I’m currently learning how to update my profile README.md file :)
 
 
 <!--
